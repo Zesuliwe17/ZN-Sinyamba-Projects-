@@ -1,6 +1,6 @@
 # Resume Website
 
-This is a simple and responsive resume website built using HTML and CSS. It highlights professional experience, mentoring involvement, community service, and core competencies in business and communication.
+This is a simple and responsive resume website built using HTML and CSS. It highlights my professional experience, mentoring involvement, community service, and core competencies in business and communication.
 
 ## Features
 
@@ -20,7 +20,7 @@ This is a simple and responsive resume website built using HTML and CSS. It high
 
 ## Purpose
 
-This project serves as a digital portfolio to demonstrate professional experiences, soft skills, and community involvement in a concise and accessible format. Ideal for sharing with potential employers or including in job applications.
+This project serves as a digital portfolio to demonstrate my professional experiences, soft skills, and community involvement in a concise and accessible format. Ideal for sharing with potential employers or including in job applications.
 
 ## Author
 
